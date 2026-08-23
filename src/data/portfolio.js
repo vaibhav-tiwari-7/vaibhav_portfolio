@@ -186,7 +186,7 @@ export const certifications = [
     id: "cert-3",
     name: " Learn Programming and Problem Solving using C++",
     issuer: "CodeChef",
-    year: "2024",
+    year: "2025",
     image: "/assets/c3.png",
     link: "https://www.codechef.com/certificates/public/7456062",
   },

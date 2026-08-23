@@ -4,7 +4,7 @@ A modern personal portfolio built with React, Vite, Tailwind CSS, and Framer Mot
 
 ## Live Website
 
-🔗 https://your-vercel-link.vercel.app
+🔗 [https://your-vercel-link.vercel.app](https://vaibhav-portfolio-7x.vercel.app/)
 
 ## Run Locally
 

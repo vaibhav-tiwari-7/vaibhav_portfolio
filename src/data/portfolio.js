@@ -227,7 +227,7 @@ export const achievements = [
   },
   {
     id: "ach-2",
-    title: "Street Play Champion",
+    title: "Intercollegiate Theatre Excellence",
     description:
       "Won 1st Prize at SIT, NMIT Bengaluru, and multiple inter-collegiate street play competitions.",
     stat: "1st",
